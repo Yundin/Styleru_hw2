@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Styleru hw2</string>
+
+    <!--MainActivity-->
+    <string name="edit_btn">Редактировать профиль</string>
+    <string name="delete_btn">Удалить профиль</string>
+
+    <!--RegisterActivity-->
+    <string name="name_hint">Введите имя</string>
+    <string name="surname_hint">Введите фамилию</string>
+    <string name="group_hint">Введите группу</string>
+    <string name="register_btn">Зарегистрироваться</string>
+</resources>
